@@ -1,8 +1,8 @@
 package server
 
 import (
-	"esi/ast"
-	"esi/tokenizer"
+	"github.com/accu-jmellottlillie/esi/ast"
+	"github.com/accu-jmellottlillie/esi/tokenizer"
 	"fmt"
 	"io/ioutil"
 	"net"

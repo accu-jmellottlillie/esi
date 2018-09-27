@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"esi/tokenizer"
+	"github.com/accu-jmellottlillie/esi/tokenizer"
 	"fmt"
 	"strings"
 )
